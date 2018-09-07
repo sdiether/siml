@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sdiether/siml/master)
+
 # Synopsis
 
 This repository contains popular Machine Learning algorithms, which have been introduced in various blog posts (http://ataspinar.com). Most of the algorithms are accompanied with blog-posts in which I try to explain the mathematics behind and the interpretation of these algorithms. 
