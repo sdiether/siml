@@ -9,6 +9,6 @@ setup(
 		author_email='taspinar@gmail.com',
 		license='MIT',
 		packages=['siml'],
-		install_requires=['numpy', 'scikit-learn', 'pandas'],
+		install_requires=['numpy', 'scikit-learn', 'pandas', 'evaluators'],
 		zip_safe=False
 		)
